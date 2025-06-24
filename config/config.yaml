@@ -1,0 +1,6 @@
+data:
+  url_books : /home/uzokmurod/Desktop/amaliyot/recommender-system/data/raw/books.csv
+  url_rating : /home/uzokmurod/Desktop/amaliyot/recommender-system/data/raw/ratings.csv
+  url_tags : /home/uzokmurod/Desktop/amaliyot/recommender-system/data/raw/tags.csv
+  url_tags_id : /home/uzokmurod/Desktop/amaliyot/recommender-system/data/raw/book_tags.csv
+  url_read : /home/uzokmurod/Desktop/amaliyot/recommender-system/data/raw/to_read.csv
